@@ -1,6 +1,6 @@
 var app = { 
    <template>
-       
+       what up
     </template>
     
     <script>
